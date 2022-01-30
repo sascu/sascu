@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/sascu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sascu&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sascu&layout=compact&langs_count=20&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sascu&layout=demo&langs_count=20&theme=synthwave"/>
 </div>
   
   ## Tecnologias que eu uso
