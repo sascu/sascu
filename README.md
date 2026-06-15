@@ -20,11 +20,8 @@ Com foco sólido em **redes de computadores** e administração de **servidores 
 ## 🚀 Status & Foco
 
 - 📍 Baseado em: **Uberlandia, MG**
-- 💼 Atuando na empresa: **Autonomo**
-- 🔭 Atualmente trabalhando em **Minha primeira aplicação Full Stack estruturada**
-- 🌱 Aprendendo ultimamente **Manipulação de APIs assíncronas e middlewares relacionais**
-- 👯 Quero colaborar em **Grupos de estudos e hackathons acadêmicos para iniciantes**
-- ⚡ Curiosidade: **Passei uma tarde inteira caçando um erro para descobrir que tinha digitado 'cons' em vez de 'const'.**
+- 💼 Atuando como **Autonomo**
+- 🔭 Atualmente trabalhando na Alqia
 
 ## 🛠️ Tecnologias e Habilidades
 
